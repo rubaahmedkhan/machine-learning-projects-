@@ -1,0 +1,4 @@
+streamlit
+Pillow  # PIL ka naya naam
+nltk
+scikit-learn
