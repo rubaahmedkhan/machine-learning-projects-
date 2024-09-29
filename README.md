@@ -5,6 +5,12 @@ This repository contains various machine learning projects that I have worked on
 ## Projects List
 
 1. **Resume Screening using Machine Learning**
-   - Automated resume screening using a trained ML model.
-   - Technologies: Streamlit, Scikit-learn, Pandas, NLTK.
+    - Automated resume screening using a trained ML model.
+    - Technologies: Streamlit, Scikit-learn, Pandas, NLTK.
+
+2. **Heart Disease Prediction**
+    - Predicts the likelihood of heart disease based on patient features using a logistic regression model.
+    - Technologies: Scikit-learn, Pandas, NumPy.
+
+
 
